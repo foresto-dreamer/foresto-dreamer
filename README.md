@@ -1,3 +1,8 @@
+![logo](https://github.com/foresto-dreamer/foresto-dreamer/blob/main/Screenshot%202026-02-16%20034456.png)
+### 👨‍💻 About Me
+
+I don't debug my code. I stare at it until it feels guilty.
+
 ## Languages & Tools I Use
 
 <p align="left">
