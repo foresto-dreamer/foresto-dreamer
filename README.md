@@ -49,7 +49,7 @@ I don't debug my code. I stare at it until it feels guilty.
 
 <p align="left">
   <a href="mailto:manishdey356@gmail.com"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="35" /></a>&nbsp;
-  <a href="https://www.instagram.com/manishdey_87" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="35" /></a>&nbsp;
+  <a href="[https://www.instagram.com/manis](https://www.instagram.com/manish.dey_/)" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="35" /></a>&nbsp;
   <a href="https://linkedin.com/in/manish-dey87" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="35" /></a>&nbsp;
   <a href="https://www.hackerrank.com/profile/manishdey356" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="35" /></a>
 </p>
